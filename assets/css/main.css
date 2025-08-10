@@ -98,6 +98,12 @@ header {
     justify-content: center;
 }
 
+.banner-box-bottom {
+    width: 295px;
+    height: 172px;
+    margin: 112.5px 69px 112.5px 0;
+}
+
 /* main */
 main{
     width: 1920px;
