@@ -115,7 +115,7 @@ main{
     justify-content: center;
 }
 
-.content-wrap {
+.content-wrap-01 {
     width: 988px;
     height: 444px;
     display: flex;
@@ -134,6 +134,14 @@ main{
     padding: 0 14px;
 }
 
+.content-wrap-03 {
+    width: 988px;
+    height: 444px;
+    display: flex;
+    align-items: center;
+    background: #FCFCFC;
+}
+
 .content-box-01 {
     width: 298px;
     height: 238px;
@@ -148,8 +156,9 @@ main{
 }
 
 .content-box-03 {
-    width: 298px;
+    width: 359px;
     height: 238px;
+    margin-left: 64px;
 }
 
 .content-img, .content-img-03 {
