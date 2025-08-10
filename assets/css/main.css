@@ -39,6 +39,7 @@ header {
     padding: 9px 200px;
     background-color: #ffffff;
     border-bottom: 1px #dfdfdf;
+    position: fixed;
 }
 
 .header-wrap {
